@@ -3,6 +3,7 @@
 - 📚 Sou Mestranda em Ciência Política na Universidade Federal de Pernambuco
 - 🔎 Pesquiso no [Laboratório de Ciência Política Computacional e Experimental](https://cpcex-lab.rbind.io/)
 - 💼 Gerente do [Núcleo de Políticas Públicas e Ciência de Dados da Prefeitura do Recife](https://github.com/NAPCD)
+- 🏡 Alagoana vivendo em Recife!
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mayrespequeno&theme=gruvbox&include_all_commits=true&show_icons=true&count_private=true"/>
