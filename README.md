@@ -1,6 +1,6 @@
 ### Oii, eu sou Mayres Pequeno 🤎
 
-- 📚 Sou mestranda em Ciência Política na Universidade Federal de Pernambuco
+- 📚 Sou Mestranda em Ciência Política na Universidade Federal de Pernambuco
 - 🔎 Pesquiso no [Laboratório de Ciência Política Computacional e Experimental](https://cpcex-lab.rbind.io/)
 - 💼 Gerente do [Núcleo de Políticas Públicas e Ciência de Dados da Prefeitura do Recife](https://github.com/NAPCD)
 
