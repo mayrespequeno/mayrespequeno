@@ -1,6 +1,6 @@
 ### Oii, eu sou Mayres Pequeno 🤎
 
-- 📚 Sou Mestre em Ciência Política na Universidade Federal de Pernambuco
+- 📚 Sou Mestra em Ciência Política na Universidade Federal de Pernambuco
 - 💼 Gerente Geral [Gerência Geral de Avaliação de Políticas Públicas na Prefeitura do recife](https://github.com/GGAPPRECIFE)
 - 🏡 Alagoana vivendo em Recife!
 
